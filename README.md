@@ -1,12 +1,114 @@
 <!DOCTYPE html>
 <html>
+<title>Sitanggang Teen's</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="sTeen.css">
-<script src="Stten.js"></script>
+<style>
+  body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url(img/PicsArt_09-03-12.43.12.jpg);
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+.imgs {
+  width: 20px;
+  height: 0%;
+}
+
+.musics {
+  display: flex;
+}
+
+.musics1 {
+  display: flex;
+}
+
+.musics4 {
+  display: flex;
+}
+
+.musics5 {
+  display: flex;
+}
+.musics6 {
+  display: flex;
+}
+
+.musics7 {
+  display: flex;
+}
+.musics9 {
+  display: flex;
+}
+
+.musics11 {
+  display: flex;
+}
+
+.musics8 {
+  display: flex;
+}
+
+.musics10 {
+  display: flex;
+}
+.musics3 {
+  display: flex;
+}
+.musics2 {
+  display: flex;
+}
+
+.taek {
+    text-align: center;
+}
+
+.pantek {
+  text-align: center;
+}
+
+
+</style>
+<script>// Modal Image Gallery
+  function onClick(element) {
+      document.getElementById("img01").src = element.src;
+      document.getElementById("modal01").style.display = "block";
+      var captionText = document.getElementById("caption");
+      captionText.innerHTML = element.alt;
+    }
+    
+    
+    // Toggle between showing and hiding the sidebar when clicking the menu icon
+    var mySidebar = document.getElementById("mySidebar");
+    
+    function w3_open() {
+      if (mySidebar.style.display === 'block') {
+        mySidebar.style.display = 'none';
+      } else {
+        mySidebar.style.display = 'block';
+      }
+    }
+    
+    // Close the sidebar with the close button
+    function w3_close() {
+        mySidebar.style.display = "none";
+    }</script>
 <body>
 
 <!-- Navbar (sit on top) -->
