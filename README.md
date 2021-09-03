@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<title>Sitanggang Teen's</title>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -418,5 +416,3 @@ body, html {
     <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +62 0882-1343-6209</p>
     <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: petrasamuel645@setan.com</p> 
     </div>
-</body>
-</html>
