@@ -4,8 +4,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="sTeen.css">
-<script src="Stten.js"></script>
+
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -315,5 +314,3 @@
     <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +62 0882-1343-6209</p>
     <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: petrasamuel645@setan.com</p> 
     </div>
-</body>
-</html>
